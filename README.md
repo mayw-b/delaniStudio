@@ -6,6 +6,9 @@ DELANI
 -> JavaScript\
 -> CSS
 
+#### Contact me for Website and CMS development:
+Email Address: [maymwikalib@gmail.com]
+
 # Screenshots
 ## Home page
 <img alt="home" src="./images/screenshot/home.png" />
@@ -18,5 +21,3 @@ DELANI
 
 ## Contact Page
 <img alt="about" src="./images/screenshot/contact.png" />
-
-[^1]: @maymwikalib@gmail.com
