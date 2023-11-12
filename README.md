@@ -18,3 +18,5 @@ DELANI
 
 ## Contact Page
 <img alt="about" src="./images/screenshot/contact.png" />
+
+[^1]: @maymwikalib@gmail.com
