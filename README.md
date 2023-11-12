@@ -2,10 +2,10 @@ DELANI
 # Delani-Studio
 
 ## Technology
--> Bootstrap
--> JavaScript
+-> Bootstrap\
+-> JavaScript\
 -> CSS
 
 ## Screenshots
-<img alt="home" src="./images/screenshot/home.png">
-#### Home page
+<img alt="home" src="./images/screenshot/home.png" />
+## Home page
